@@ -338,7 +338,7 @@ li a{
 
 /*------------------------------------------------------------------------------------------*/
 
-@media screen and (max-width: 375px){
+@media screen and (min-width: 375px) and (max-width: 991px){
     nav{
         width: 90%;
 
