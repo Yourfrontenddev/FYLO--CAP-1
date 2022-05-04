@@ -338,18 +338,20 @@ li a{
 
 /*------------------------------------------------------------------------------------------*/
 
-@media screen and (min-width: 375px) and (max-width: 991px){
+@media screen and (min-width: 300px) and (max-width: 991px){
+
     nav{
         width: 90%;
 
     }
     .fylo_logo{
-        width: 70px;
+        width: 50px;
         height: auto;
     }
     ul.nav_bar_text li{
         width: 70px;
         margin-right: 5px;
+        text-align: right;
         }
         ul.navbar li:nth-child(2){
             width: 50px;
